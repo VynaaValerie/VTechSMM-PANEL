@@ -1,0 +1,11 @@
+{
+  "smm": {
+    "api_url": "https://vtechsmm.biz.id/api",
+    "api_key": "AMBIL_KEY_DI_WEB"
+  },
+  "pakasir": {
+    "api_url": "https://app.pakasir.com/api",
+    "api_key": "AMBIL_KEY_DI_WEB",
+    "slug": "namamu"
+  }
+}
