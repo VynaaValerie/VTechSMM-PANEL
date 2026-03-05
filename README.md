@@ -7,7 +7,7 @@ SMM Panel Multi Provider lengkap dan profesional dengan Node.js + EJS. Platform 
 ## Group 
 https://chat.whatsapp.com/IweqL2NAVve5ZKcoagMizs?mode=gi_t 
 
-web https://vtechsmm.biz.id/order/new
+web https://vtechsmm.biz.id
 
 • Jasa pembuatan website 
 • Menerima perbaikan script atau fitur bot
