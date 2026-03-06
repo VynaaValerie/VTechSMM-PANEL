@@ -2,7 +2,7 @@
 
 ![VegaTech Logo](https://e.top4top.io/p_3710h64px9.png)
 
-SMM Panel Multi Provider lengkap dan profesional dengan Node.js + EJS. Platform Social Media Marketing terbaik dengan harga termurah dan layanan terlengkap.
+SMM Panel Multi Provider lengkap dan profesional dengan Node.js + Baileys. Platform Social Media Marketing terbaik dengan harga termurah dan layanan terlengkap.
 
 ## Group 
 https://chat.whatsapp.com/IweqL2NAVve5ZKcoagMizs?mode=gi_t 
